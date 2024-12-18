@@ -1,22 +1,3 @@
-# Screenity
-[![jiewjjc232](https://github.com/alyssaxuu/screenity/assets/7581348/ed55e52e-4adf-442b-b774-6856abacdffb)](https://screenity.io)
-
-
-The free and privacy-friendly screen recorder with no limits 🎥
-
-[Get it now - it's free!](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
-
-Screenity is a powerful privacy-friendly screen recorder and annotation tool to make better videos for work, education, and more. You can create stunning product demos, tutorials, presentations, or share feedback with your team - all for free.
-
-> You can support this project (and many others) through [GitHub Sponsors](https://github.com/sponsors/alyssaxuu)! ❤️
-
-Made by [Alyssa X](https://alyssax.com)
-
-<a href="https://www.producthunt.com/posts/screenity?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-screenity" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=275308&theme=light&period=daily" alt="Screenity - The most powerful screen recorder for Chrome | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<a href="https://news.ycombinator.com/item?id=25150804" target="_blank"><img height=53 src="https://hackerbadge.now.sh/api?id=25150804&type=orange" alt="Featured on HackerNews"></a>
-
-> ❗️ Screenity has been rebuilt from the ground up, and updated to MV3. [Click here](https://help.screenity.io/getting-started/77KizPC8MHVGfpKpqdux9D/what%E2%80%99s-changed-in-the-new-version-of-screenity/bDtvcwAtw9PPesQeNH4zjE) to here to learn more about why, and what's changed in the new version. Also note that **the license has changed to [GPLv3](https://github.com/alyssaxuu/screenity/blob/master/LICENSE)**, but the older MV2 version remains MIT licensed. Make sure you read the license and the [Terms of Service](https://screenity.io/en/terms/) regarding intellectual property.
-
 ## Table of contents
 
 - [Features](#features)
@@ -79,12 +60,3 @@ You can create it accessing [Google Cloud Console](https://console.cloud.google.
 - [Wavesurfer.js](https://wavesurfer.xyz/) to create audio waveforms in the popup and the editor
 - [React Advanced Cropper](https://advanced-cropper.github.io/react-advanced-cropper/) for the cropping UI in the editor
 - [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) to add missing metadata to WEBM files
-
-## Acknowledgements
-
-- Thanks to [HelpKit](https://www.helpkit.so/) for sponsoring this project by hosting the [Screenity Help Center](https://help.screenity.io/).
-- Thanks to [Mei Xuan](https://www.behance.net/meixuanloo) for helping with the Chinese translation of the extension.
-
-If you need any help, or want to become a Screenity expert, you can browse articles and guides in the [help center](https://help.screenity.io). You can also submit any feedback or ideas in this [form](https://tally.so/r/3ElpXq), or contact through [this page](https://help.screenity.io/contact)
-
-Feel free to reach out to me through email at hi@alyssax.com or [on Twitter](https://twitter.com/alyssaxuu) if you have any questions or feedback! Hope you find this useful 💜
